@@ -1,0 +1,2 @@
+total_orders,total_order_value_inr,avg_order_value_inr,avg_turnaround_days,overall_ontime_rate_pct,overall_delayed_rate_pct,avg_delay_days_all_orders,avg_delay_when_late_days
+300,7619897.98,25399.66,4.51,72.67,27.33,0.45,1.66

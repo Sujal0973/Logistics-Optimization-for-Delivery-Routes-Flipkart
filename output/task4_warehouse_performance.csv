@@ -1,0 +1,11 @@
+Warehouse_ID,Warehouse_Name,City,Processing_Capacity,Average_Processing_Time_Min,global_benchmark_min,excess_processing_min,total_shipments,on_time_shipments,delayed_shipments,on_time_pct,ontime_rank
+WH_10,Flipkart Fulfillment Center Chennai,Chennai,4310,117,79.4,37.6,30,19,11,63.33,10
+WH_09,Flipkart Fulfillment Center Hyderabad,Hyderabad,4252,110,79.4,30.6,43,36,7,83.72,1
+WH_01,Flipkart Fulfillment Center Lucknow,Lucknow,5020,101,79.4,21.6,24,18,6,75.0,3
+WH_06,Flipkart Fulfillment Center Kolkata,Kolkata,4133,95,79.4,15.6,27,21,6,77.78,2
+WH_03,Flipkart Fulfillment Center Mumbai,Mumbai,7788,84,79.4,4.6,25,16,9,64.0,9
+WH_04,Flipkart Fulfillment Center Ahmedabad,Ahmedabad,7780,81,79.4,1.6,31,23,8,74.19,4
+WH_02,Flipkart Fulfillment Center Delhi,Delhi,7415,63,79.4,-16.4,27,18,9,66.67,8
+WH_05,Flipkart Fulfillment Center Jaipur,Jaipur,5965,58,79.4,-21.4,29,21,8,72.41,6
+WH_08,Flipkart Fulfillment Center Bengaluru,Bengaluru,3385,44,79.4,-35.4,38,28,10,73.68,5
+WH_07,Flipkart Fulfillment Center Pune,Pune,7042,41,79.4,-38.4,26,18,8,69.23,7

@@ -1,0 +1,4 @@
+Delay_Reason,total_incidents,share_pct,avg_delay_minutes,max_delay_minutes
+Traffic,387,56.41,68.7,120
+Weather,192,27.99,63.7,117
+Technical Issue,107,15.6,64.1,120

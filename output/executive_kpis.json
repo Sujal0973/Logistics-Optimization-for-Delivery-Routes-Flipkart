@@ -1,0 +1,10 @@
+{
+  "total_orders": 300.0,
+  "total_order_value_inr": 7619897.98,
+  "avg_order_value_inr": 25399.66,
+  "avg_turnaround_days": 4.51,
+  "overall_ontime_rate_pct": 72.67,
+  "overall_delayed_rate_pct": 27.33,
+  "avg_delay_days_all_orders": 0.45,
+  "avg_delay_when_late_days": 1.66
+}
